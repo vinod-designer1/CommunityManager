@@ -1,10 +1,16 @@
 ============================  KNOWLEDGE BUILDER =========================
 HOW TO RUN THE APP:
+
 NPM INSTAL:  npm install
+
 BOWER INSTALL:  bower install
+
 START MONGODB: mongo --dbpath <dbpath>
+
 START GULP: ./node_modules/.bin/gulp (building scripts)
+
 START NODE: npm run watch
+
 AIM OF THIS APP:
   The aim of this app is to build internal employee knowledge graph of the company.
 
@@ -29,13 +35,10 @@ How much is done:
   CommunityModule and Link Publish Module was made. But Right now as there is no user any one can create,delete any community  and anyone can publish to any community.
 
 Technologies Used:
-  Nodejs, Koa, react, html, materialcss, gulp, nodeman, monk, jquery, react-router, koa-router.
+  Nodejs, Koa, react, html, materialcss, gulp, nodeman, monk, jquery, react-router, koa-router, swig.
 
-What i learned:
-  Nodejs, Koa, react, html, materialcss, gulp, nodeman, monk.
-
-What i'm experienced in the technologies used:
-  Jquery
+What tech i learned:
+  Nodejs, Koa, react, materialcss, gulp, nodeman, monk, swig, react-router, koa-router,.
 
 What my suggestions from experience:
 Koa needs more modules to build for complete production
