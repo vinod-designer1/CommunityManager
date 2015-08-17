@@ -1,0 +1,18 @@
+{
+  "name": "Client",
+  "version": "0.0.0",
+  "authors": [
+    "Vinod Y <vinod.designer1@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "materialize": "~0.97.0"
+  }
+}
